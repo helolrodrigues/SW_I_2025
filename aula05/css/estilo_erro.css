@@ -21,4 +21,8 @@
     .custom-btn:hover {
         background-color: #4b5563 !important;
     }
+
+    p{
+        text-align: center;
+    }
 }

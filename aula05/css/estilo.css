@@ -1,0 +1,27 @@
+body{
+    color: black;
+    padding: 3px 5px;
+    text-align: center;
+    
+}
+
+label{
+    text-align: center;
+}
+
+div{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    }
+    
