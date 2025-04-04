@@ -4,7 +4,7 @@
 
     if($email == 'heloisa@email.com' && $senha == '1234'){
 //pagina privada
-   $nome = "Heloisa";
+   $nome = "Heloisa e Isadora";
    header('Location: privada.php?nome='.$nome);
 }else{
     //pagina de erro

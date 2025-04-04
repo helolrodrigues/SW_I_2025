@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página Inicial</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 </head>
 <body>
     <div class= "container">
@@ -31,31 +31,23 @@
         <label class="form-check-label" for="form2Example34"> Lembre-me </label>
       </div>
     </div>
-
     <div class="col">
       <!-- Simple link -->
       <a href="#!">Esqueceu a senha?</a>
     </div>
   </div>
-
   <!-- Submit button -->
 <input type="submit" class="bnt bnt-primary bnt-block mb-4" value="Entrar">
   <!-- Register buttons -->
   <div class="text-center">
     <p>Não é membro? <a href="#!">Registre-se</a></p>
-    <p>ou entre com:</p>
-    <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
-      <i class="fab fa-google"><img src="<im" alt=""></i>
-    </button>
-
-    <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
-      <i class="fab fa-github"></i>
     </button>
   </div>
 </form>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js">
+<div class= "container">
 
-</script>
+</div>
+<script src="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

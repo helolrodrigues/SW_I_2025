@@ -31,7 +31,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Introdução</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Viagens</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">Sobre</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contato</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="index.php">Voltar</a></li>
@@ -60,7 +60,7 @@
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Introdução</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Viagens</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -75,7 +75,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/paris.jpeg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -84,7 +84,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/madri.webp" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -93,7 +93,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/roma.jpeg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -102,7 +102,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/berrlim.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -111,7 +111,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/amsterdã.jpeg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -120,7 +120,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/londres.webp" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -139,8 +139,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">Nosso site foi criado especialmente para te orientar em suas viagens, te indicando o melhor lugar para aproveitar com seus amigos e familiares. Uma ótima opção para turistar e o melhor aconchego!</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Nas capitais de países lindos. Com restaurantes, festas, pontos turísticos e muito mais para aproveitar pertinho de quem você ama! </p></div>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">PARIS, FRANÇA</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -239,12 +239,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/paris.jpeg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4"> Paris é conhecida como o principal destino de viagens românticas do mundo. Mas os visitantes se apaixonam mesmo é pela própria cidade. Construções imponentes de rocha ou ferro forjado, cafeterias aconchegantes espalhadas pela calçada e as margens sinuosas do Rio Sena são certamente imagens tiradas de filmes.  O cenário culinário tem uma lista interminável de pratos franceses que você precisa provar, como deliciosos coq au vin e croissants amanteigados. Além disso, o espírito de Paris é um convite para se aventurar pelas ruas secundárias, entrar em museus e explorar as lojas que parecem labirintos. No fim do dia, vá ao Champ-de-Mars para ter uma vista livre da Torre Eiffel brilhando à noite.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                        Fechar janela
                                     </button>
                                 </div>
                             </div>
@@ -263,7 +263,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Madri, Espanha</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -271,12 +271,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/madri.webp" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">A vibrante Madri, localizada no meio da bela Espanha, é a capital dos livros de histórias do país. Cada bairro eclético da cidade tem um charme próprio: o clima hipster toma conta de Malasaña, com suas lojas pitorescas durante o dia e casas noturnas ao anoitecer; já em Salamanca, temos restaurantes sofisticados e lojas de luxo; e em Lavapiés, as ruas são íngremes e parecem labirintos, além de serem repletas de restaurantes autênticos e ótimos pontos para observar a multidão. E não deixe de visitar os pontos turísticos mais famosos de Madri.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                        Fechar janela
                                     </button>
                                 </div>
                             </div>
@@ -295,7 +295,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Roma, Itália</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -303,12 +303,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/roma.jpeg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">É fácil entender por que Roma é um dos lugares mais visitados do planeta: existe história em cada canto da cidade (Panteão, Coliseu), obras-primas esculturais em quase todas as piazzas e, claro, uma culinária mais que deliciosa. Todo passeio pode parecer muita informação para processar, mas é só relaxar que você vai encontrar muitas surpresas. Passe uma manhã de domingo em Trastevere e procure itens vintage no mercado de pulgas de Porta Portese. Ou visite San Lorenzo, um bairro universitário com um clima moderno e charmoso, para conhecer lojas, galerias e arte de rua descoladas. A hora do jantar é um pouco tarde aqui, então experimente alguns aperitivos em Prati: fica a uma pequena distância a pé do Vaticano e é repleto de bares de rua peculiares.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                        Fechar janela
                                     </button>
                                 </div>
                             </div>
@@ -327,7 +327,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Berlim, Alemanha</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -335,12 +335,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/berrlim.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Berlim é uma cidade inegavelmente divertida, energética e ousada. Seu passado está literalmente ao lado do presente: o Muro de Berlim é um lembrete da história da cidade, mas a arte em grafite que o cobre se tornou um símbolo do progresso social. Conheça as galerias de arte moderna, os pubs clássicos e não deixe de conferir a vida noturna de clubes mundialmente famosos, como o Berghain. Os amantes da ciência não podem deixar de conhecer o Weltzeituhr Clock, relógio mundial que conta com um modelo do sistema solar no topo. Os amantes de história não vão querer perder uma mesa no histórico Zur Letzten Instanz, restaurante do século XVI frequentado por Napoleão e Beethoven.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                        Fechar janela
                                     </button>
                                 </div>
                             </div>
@@ -359,7 +359,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Amsterdã, Holanda</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -367,12 +367,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/amsterdã.jpeg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Amsterdam não se limita só ao status de capital e maior cidade dos Países Baixos. Ela voa alto no cenário mundial, sendo hoje uma das potências comerciais e culturais mais importantes da Europa. A lendária metrópole dos canais fluviais e das casas flutuantes é cosmopolita e liberal por natrureza. É também a terra dos museus, das bicicletas, dos parques, das ruas de comércio, dos mercados de flores, dos concertos, dos festivais internacionais e dos aconchegantes cafés. Seja como for, qualquer um de seus encantos fisga o viajante já à primeira vista!</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                         Fechar janela
                                     </button>
                                 </div>
                             </div>
@@ -391,7 +391,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Londres, Inglaterra</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -399,12 +399,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/londres.webp" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">Londres é uma cidade enorme no centro de tudo: arte, história, cultura e muito mais. Mas o que a diferencia de outros grandes centros são os bairros distintos, cada um com seu próprio ambiente. Passe uma tarde com a família em Kensington: lá tem museus, parques e muitas outras atividades para crianças. Se preferir, confira a arrojada Shoreditch para ver lojas descoladas e murais de rua (perfeitos para fotos). Londres também tem ótimos restaurantes do sudeste asiático graças à grande comunidade bengali (Brick Lane tem várias opções à sua escolha). Já a elegante Mayfair conta com uma lista de restaurantes com chefs famosos que não para de crescer. Sempre há alguma novidade na cidade e temos mais recomendações abaixo.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                      Fechar janela
                                     </button>
                                 </div>
                             </div>
