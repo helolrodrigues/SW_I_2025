@@ -12,27 +12,43 @@ class  Produto{
     }
 
     //GET
-    public function getnome(){
+    public function getNome(){
         return $this->Nome;
     }
 
-    public function getpreco(){
-        return $this->Preco;
+    public function getPreco(){
+        return $this-> Preco;
     }
 
 
     //SET
-    public function setnome(){
+    public function setNome(){
         return $this->Nome;
     }
 
-    public function setpreco(){
+    public function setPreco(){
         return $this->Preco;
     }
     
         public function adicionarEstoque($quantidade_produto){
-            return $this->Quantidade_produto;
+        if ($quantidade_produto> 0) {
+            $this->Quantidade += $quantidade_produto;
         }
+        }
+
+          public function removerEstoque($quantidade_produto){
+          if ($quantidade_produto > 0 && $quantidade_produto <= $this->Quantidade) {
+            $this->Quantidade -= $quantidade_produto;
+        }
+        }
+
+          public function mostrarDetalhes(){
+               echo "Produto: " .$this->Nome . "<br>";
+        echo "Preço: " .$this->Preco . "<br>";
+        echo "Quantidade em estoque: " .$this->Quantidade . "<br>";
+        }
+
+    
 }
 
 
